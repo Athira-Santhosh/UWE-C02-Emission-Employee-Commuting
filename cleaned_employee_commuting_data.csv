@@ -1,0 +1,128 @@
+Data from Travel West 21/22 survey,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10
+Conversion factors from DEFRA 2023,0,0,0,0,0,0,0,0,0,0
+GHG protocol distance based method,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+Full time:,2738,0,0,0,0,0,0,0,0,0
+Part time,1337,(788 FTE),0,0,0,0,0,0,0,0
+days working per year including annual leave and closure days,219,0,0,0,0,0,0,0,0,0
+0,Commuting emissions,0,0,0,0,0,0,0,0,0
+0,Number of respondents,Proportion of respondents,Full time staff using this mode,Part time staff using this mode,full time staff days commuting per year,Part time staff days commuting per year,Total days commuting by mode,Emissions per average daily commute (KG CO2e),Total emissions KG CO2e,Total emissions  CO2e
+Car driver (alone),261,0.449225473,1229.979346,600.6144578,180074.8217,62863.27323,242938.0949,9.350588856,2271614.243,2271.614243
+Car share,40,0.068846816,188.5025818,92.04819277,27597.67382,9634.218119,37231.89194,3.336233562,124214.2875,124.2142875
+Cycle,91,0.156626506,428.8433735,209.4096386,62784.70795,21917.84622,84702.55417,0.4165,35278.61381,35.27861381
+Electric Cycle,23,0.039586919,108.3889845,52.92771084,15868.66245,5539.675419,21408.33787,0.159067826,3405.377765,3.405377765
+Motorbike / Moped,8,0.013769363,37.70051635,18.40963855,5519.534765,1926.843624,7446.378388,5.658935729,42138.57672,42.13857672
+Public bus,72,0.123924269,339.3046472,165.686747,49675.81288,17341.59261,67017.4055,3.034734438,203380.0284,203.3800284
+Taxi/Uber,1,0.00172117,4.712564544,2.301204819,689.9418456,240.855453,930.7972986,2.389371113,2224.020177,2.224020177
+Train,23,0.039586919,108.3889845,52.92771084,15868.66245,5539.675419,21408.33787,6.103142056,130658.1272,130.6581272
+Voi e-scooter,1,0.00172117,4.712564544,2.301204819,689.9418456,240.855453,930.7972986,0.148,137.7580002,0.137758
+Walk/Run,52,0.089500861,245.0533563,119.6626506,35876.97597,12524.48355,48401.45952,0.509548275,24662.88019,24.66288019
+Work entirely from home,9,0.015490534,42.4130809,20.71084337,0,0,0,0,0,0
+Total,581,1,2738,1337,0,0,0,0,2837713.913,2837.713913
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,Homeworking emissions,0,0,0,0,0,0,0,0,0
+0,Days working at home per year,Hours worked at home per year,Number of staff,Total hours,Coversion factor,Kg CO2e,t CO2e,0,0,0
+ Part time,39.81818182,294.6545455,2738,806764.1455,0.333781205,269282.7083,269.2827083,0,0,0
+ Full time,68.08514851,503.830099,1337,673620.8424,0.333781205,224841.9762,224.8419762,0,0,0
+Total,0,0,0,0,0,494124.6845,494.1246845,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+Emissions conversion factors - cars,0,0,0,0,0,0,0,0,0,0
+0,Emissions from Fuel (Kg CO2e),Emissions from Electricity (Kg CO2e),Well To tank (fuel),Transmission & distribution (electricity),Total emissions (Kg CO2e per mile),0,0,0,0,0
+Petrol,0.26379,0,0.07325,0,0.33704,0,0,0,0,0
+Diesel,0.27332,0,0.0667,0,0.34002,0,0,0,0,0
+Plug in Hybrid,0.10601,0.04152,0.03927,0.00359,0.19039,0,0,0,0,0
+Electric,0,0.08116,0.01955,0.00703,0.10774,0,0,0,0,0
+Hybrid (50/50 average),0,0,0,0.001794493,0.00179,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+Row Labels,Count of Which site do you work at? If you work from home please s...,Proportion,proportion*emissions factor,0,0,0,0,0,0,0
+Car driver (alone),261,0,0,0,0,0,0,0,0,0
+A diesel vehicle,72,0.275862069,0.093797424,0,0,0,0,0,0,0
+A hybrid vehicle,15,0.057471264,0.010942105,0,0,0,0,0,0,0
+A petrol vehicle,163,0.624521073,0.210486691,0,0,0,0,0,0,0
+An electric vehicle,10,0.038314176,0.004127834,0,0,0,0,0,0,0
+(blank),1,0.003831418,0,0,0,0,0,0,0,0
+Car share,40,0,0,0,0,0,0,0,0,0
+A diesel vehicle,7,0.175,0.059502741,0,0,0,0,0,0,0
+A hybrid vehicle,2,0.05,0.009519632,0,0,0,0,0,0,0
+A petrol vehicle,25,0.625,0.210648107,0,0,0,0,0,0,0
+An electric vehicle,6,0.15,0.016160472,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+Emissions per mile average car journey alone,0.319354055,0,0,0,0,0,0,0,0,0
+Emissions per mile average car journey share,0.147915476,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+Average distance to work Car driver alone,14.63984674,0,0,0,0,0,0,0,0,0
+Average distance to work Car share,11.2775,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+Emissions from average commute (to work and back) Car driver alone (Kg C02e),9.350588856,0,0,0,0,0,0,0,0,0
+Emissions from average commute (to work and back) Car Share (Kg C02e),3.336233562,0,0,0,0,0,0,0,0,0
+Emissions factors - other vehicles & modes,0,0,0,0,0,0,0,0,0,0
+0,Emissions per mile (Kg CO2e),Well To tank (fuel) per mile (KgCO2e),Transmission & distribution (electricity),Total emissions (Kg CO2e per mile),0,0,0,0,0,0
+Cycle,0.049,0,0,0.049,0,0,0,0,0,0
+Bus,0.164395125,0.040120946,0,0.20452,0,0,0,0,0,0
+Electric Bike,0.0148,0,0,0.0148,0,0,0,0,0,0
+Walk/Run,0.093205678,0,0,0.09321,0,0,0,0,0,0
+Train,0.057072,0.01443,0,0.0715,0,0,0,0,0,0
+Motorbike/moped,0.18294,0.04757,0,0.23051,0,0,0,0,0,0
+Taxi,0.239172539,0.05949885,0,0.29867,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0.05949885,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0.03697,1.609344,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,Number of respondents using this mode,average distance travelled (one way),emissions per average commute (one way) kg CO2e,emissions per average commute (work and back),0,0,0,0,0,0
+Cycle,91,4.25,0.20825,0.4165,0,0,0,0,0,0
+Electric Cycle,23,5.373913043,0.079533913,0.159067826,0,0,0,0,0,0
+Motorbike / Moped,8,12.275,2.829467865,5.658935729,0,0,0,0,0,0
+Other ,1,35,0,0,0,0,0,0,0,0
+Public bus,72,7.419305556,1.517367219,3.034734438,0,0,0,0,0,0
+Taxi/Uber,1,4,1.194685557,2.389371113,0,0,0,0,0,0
+Train,23,42.67826087,3.051571028,6.103142056,0,0,0,0,0,0
+Voi e-scooter,1,5,0.074,0.148,0,0,0,0,0,0
+Walk,52,2.733461538,0.254774137,0.509548275,0,0,0,0,0,0
+0,Activity,Unit,kg CO2e,0,0,0,0,0,0,0
+0,Office Equipment,per FTE Working Hour,0.03144,0,0,0,0,0,0,0
+0,Heating,per FTE Working Hour,0.30234,0,0,0,0,0,0,0
+0,Homeworking (office equipment + heating),per FTE Working Hour,0.33378,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+Row Labels,Average of Days per week at my workplace,Average of Days per week working at home,0,0,0,0,0,0,0,0
+Full time,3.342574257,1.554455446,4.897029703,0,0,0,0,0,0,0
+part time,2.38961039,0.909090909,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0
+average working days at uwe,219,0,0,0,0,0,0,0,0,0
+number of weeks of work,43.8,0,0,0,0,0,0,0,0,0
+Days at workplace per year part time,104.6649351,0,0,0,0,0,0,0,0,0
+Days at workplace per year full time,146.4047525,0,0,0,0,0,0,0,0,0
+Days working at home per year part time,39.81818182,0,0,0,0,0,0,0,0,0
+Days working at home per year full time,68.08514851,0,0,0,0,0,0,0,0,0
